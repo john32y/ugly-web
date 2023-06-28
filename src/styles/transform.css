@@ -1,0 +1,12 @@
+#transform .flex-container > div:nth-child(1) {
+    transform: rotate(45deg);
+}
+
+#transform .flex-container > div:nth-child(1) {
+    transform: scale(20);
+}
+
+#transform .flex-container > div:nth-child(1) {
+    transform: skew(2deg, 36deg);
+}
+
